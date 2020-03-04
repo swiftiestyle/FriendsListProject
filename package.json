@@ -1,0 +1,19 @@
+{
+  "name": "friends-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodejserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.4"
+  },
+  "engines": {
+    "node": "12.16.1"
+  }
+}
